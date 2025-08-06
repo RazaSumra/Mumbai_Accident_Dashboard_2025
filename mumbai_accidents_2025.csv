@@ -1,1 +1,16 @@
-
+Area,Vehicle_Type,Accidents_Reported,Fatalities,Reason
+Andheri,Two-Wheeler,120,25,Over Speeding
+Bandra,Car,85,15,Drunk Driving
+Colaba,Truck,60,10,Brake Failure
+Dadar,Auto-Rickshaw,90,12,Signal Jumping
+Kurla,Pedestrian,110,30,Hit-and-Run
+Ghatkopar,Two-Wheeler,130,28,No Helmet
+Sion,Car,95,16,Over Speeding
+Borivali,Truck,70,14,Brake Failure
+Malad,Auto-Rickshaw,80,18,Signal Jumping
+Chembur,Pedestrian,100,26,Drunk Driving
+Powai,Two-Wheeler,105,20,Over Speeding
+Worli,Car,88,11,No Helmet
+Santacruz,Truck,65,9,Hit-and-Run
+Mulund,Auto-Rickshaw,77,13,Over Speeding
+Vikhroli,Pedestrian,93,22,Signal Jumping
