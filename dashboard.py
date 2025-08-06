@@ -8,7 +8,7 @@ st.set_page_config(layout="wide", page_title="Mumbai 2025 Accidents", initial_si
 
 @st.cache_data
 def load_data():
-    return pd.read_csv("mumbai_accidents_2025.csv")  # 🟢 CSV file ka naam sahi se daalna
+    return pd.read_csv("mumbai_accidents_2025.csv")  
 
 df = load_data()
 
